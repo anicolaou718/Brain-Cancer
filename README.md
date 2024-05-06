@@ -1,14 +1,13 @@
 # Brain-Cancer
-Glioblastoma
 Predicts the overall survival in month for Glioma patients.
 
-Nulls
+Nulls:
 Dropped columns that were filled with a majority of null values and then used KNN Imputer to resolve missing values in the dataset using K-Nearest Neighbours.
 
-Outliers
+Outliers:
 Outliers were capped based on the IQR for the independent variables
 
-Categorical Data --> Numerical Data
+Categorical Data --> Numerical Data: 
 Transformed Catgorical data into number values using one hot encoding. 
 
 Modeling:
