@@ -1,5 +1,13 @@
 # Brain-Cancer
-Predicts the overall survival in month for Glioma patients.
+
+The use of AI in diagnosing patients is an emerging field in Healthcare.
+
+There are many datasets such as the one used for this project that are publicly available and can be used to analyze the data of patients.
+By identifying features that effects the development of glioma, doctors can take preventative measures to slow or stop the patient from developing cancer. 
+
+This project predicts the overall survival in month for Glioma patients.
+
+Techniques used in the projects:
 
 Nulls:
 Dropped columns that were filled with a majority of null values and then used KNN Imputer to resolve missing values in the dataset using K-Nearest Neighbours.
