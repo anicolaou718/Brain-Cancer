@@ -7,7 +7,7 @@ By identifying features that effects the development of glioma, doctors can take
 
 This project predicts the overall survival in month for Glioma patients.
 
-Techniques used in the projects:
+**Techniques used in the projects:**
 
 **Nulls:**
 
