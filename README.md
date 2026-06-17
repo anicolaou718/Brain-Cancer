@@ -24,6 +24,7 @@ Transformed Catgorical data into number values using one hot encoding.
 **Modeling:**
 
 Used correlation to filter the features for a linear regression model.
+
 PCA + Linear Regression
 
 Pipeline = RF + CV and Grid Search CV: 72
